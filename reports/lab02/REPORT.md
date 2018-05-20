@@ -12,7 +12,7 @@
 
 ```bash
 $ export GITHUB_USERNAME=woz91
-$ export GIST_TOKEN=0fca47210302e4b3c3fca301fe023395a49363cd
+$ export GIST_TOKEN=token
 $ alias edit=nano
 ```
 
